@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#090d16"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <!-- Road lines -->
+  <path d="M 170 500 L 230 12 L 282 12 L 342 500 Z" fill="#1e293b"/>
+  <line x1="256" y1="12" x2="256" y2="500" stroke="#fbbf24" stroke-width="8" stroke-dasharray="32 24"/>
+  <!-- Racing car -->
+  <g transform="translate(196, 210) scale(1.5)">
+    <ellipse cx="40" cy="65" rx="26" ry="46" fill="rgba(0,0,0,0.5)"/>
+    <rect x="8" y="24" width="7" height="18" rx="2" fill="#0f172a"/>
+    <rect x="65" y="24" width="7" height="18" rx="2" fill="#0f172a"/>
+    <rect x="8" y="78" width="7" height="18" rx="2" fill="#0f172a"/>
+    <rect x="65" y="78" width="7" height="18" rx="2" fill="#0f172a"/>
+    <path d="M 28 14 Q 40 8 52 14 L 62 38 L 62 96 Q 62 106 52 106 L 28 106 Q 18 106 18 96 L 18 38 Z" fill="#e11d48"/>
+    <rect x="37" y="14" width="3" height="92" fill="#fda4af"/>
+    <rect x="42" y="14" width="3" height="92" fill="#fda4af"/>
+    <path d="M 26 34 L 54 34 L 52 64 L 28 64 Z" fill="#0f172a"/>
+    <path d="M 27 36 L 53 36 L 50 48 L 30 48 Z" fill="#38bdf8"/>
+    <rect x="18" y="100" width="44" height="6" rx="2" fill="#1e293b"/>
+    <rect x="24" y="14" width="7" height="3" rx="1" fill="#fef08a"/>
+    <rect x="49" y="14" width="7" height="3" rx="1" fill="#fef08a"/>
+  </g>
+</svg>

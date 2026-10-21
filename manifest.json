@@ -1,0 +1,18 @@
+{
+  "name": "Turbo Racer Mobile",
+  "short_name": "TurboRacer",
+  "description": "Fast-paced 2D arcade mobile racing game with responsive touch steering, turbo acceleration, and dynamic traffic.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

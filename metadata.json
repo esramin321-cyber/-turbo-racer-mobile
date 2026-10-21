@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Racer Mobile",
+  "description": "Fast-paced 2D arcade mobile racing game with responsive touch steering, turbo acceleration, dynamic traffic, sound effects, and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
